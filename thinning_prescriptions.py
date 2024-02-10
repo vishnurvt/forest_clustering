@@ -4,7 +4,7 @@ from sklearn.cluster import KMeans
 import matplotlib.pyplot as plt
 
 # Loading the dataset 
-file_path = r'D:\ML@IIT\Eli Jensen - Ironwood Forestry\Merged_Subsampling_Remove Outliers_Normalize by Ground Points_Point Cloud Segmentation.csv'
+file_path = r'D:\ML@IIT\Merged_Subsampling_Remove Outliers_Normalize by Ground Points_Point Cloud Segmentation.csv'
 data = pd.read_csv(file_path)
 
 # Select relevant features for clustering and removal heuristic
