@@ -1,4 +1,4 @@
-# Clustering
+# Forest Clustering
 
 ## Getting Started
 
