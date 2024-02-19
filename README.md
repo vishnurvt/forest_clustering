@@ -14,3 +14,5 @@ Once you have installed VS Code and Python, you're ready to get started with the
 
 
 ![Figure_1](https://github.com/vishnurvt/Clustering/assets/135481873/bfd5c85f-8238-45b3-afc0-6618603105cf)
+![Figure_2](https://github.com/vishnurvt/forest_clustering/assets/135481873/cd215944-aef5-4ca9-9272-3f9b6e6566c0)
+![Figure_3](https://github.com/vishnurvt/forest_clustering/assets/135481873/f57a812a-a6af-454c-95fa-657e3d53b7f1)
